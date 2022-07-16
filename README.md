@@ -2,7 +2,6 @@
 
 ### Paquetes requeridos:
 
-* Server:
 ```console
 pip install opencv-python
 pip install mediapipe
