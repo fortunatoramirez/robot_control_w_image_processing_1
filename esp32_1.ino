@@ -3,8 +3,8 @@
 #include <SocketIoClient.h>
 #include <Servo.h>
 
-const char* ssid     = "INFINITUM7095"; //"INFINITUMC2A2_2.4"
-const char* password = "PutoElqueEntre";        //"Dus2qzqyFC"
+const char* ssid     = ""; //"INFINITUMC2A2_2.4"
+const char* password = "";        //"Dus2qzqyFC"
 const char* server = "201.130.170.2"; //Enter server adress
 const uint16_t port = 5001; // Enter server port
 int payload_entero;
